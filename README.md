@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SumitSaundadkar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning  html ,css ,js, React
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning  html ,css ,js and React
+- 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me  sumit.saundadkar9010@gmail.com
 
 <!---
