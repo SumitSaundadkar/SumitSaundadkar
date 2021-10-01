@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  html ,css ,js and React
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me  sumit.saundadkar9010@gmail.com
--    my linkdin id- linkedin.com/in/sumit-saundadkar-53174617b
+-    my linkdin id -  linkedin.com/in/sumit-saundadkar-53174617b 
 
 <!---
 SumitSaundadkar/SumitSaundadkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
